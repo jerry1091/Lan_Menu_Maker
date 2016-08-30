@@ -6,3 +6,6 @@ This is a project to keep me active in php, sql, etc....
 
 Hope you find this project useful.
 
+Requirements.
+webserver capable of servering php and SQLite.
+
